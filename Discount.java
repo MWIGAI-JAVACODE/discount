@@ -1,3 +1,6 @@
+// Name: JENTRIX MWIGAI
+// Reg No: J77-11431-2024
+//Description: Program to execute Discount
 import java.util.Scanner;
 
 class Main {
@@ -24,3 +27,4 @@ class Main {
         System.out.println("Amount after discount: " + finalAmount);
     }
 }
+
