@@ -17,7 +17,7 @@ class Main {
         } else if (amount > 1000 && amount <= 5000) {
             discount = amount * 0.05; // 5%
         } else {
-            discount = 0; // no discount
+            discount = 0; 
         }
 
         double finalAmount = amount - discount;
@@ -27,4 +27,5 @@ class Main {
         System.out.println("Amount after discount: " + finalAmount);
     }
 }
+
 
