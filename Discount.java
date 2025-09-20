@@ -3,7 +3,7 @@
 //Description: Program to execute Discount
 import java.util.Scanner;
 
-class Main {
+class Discount {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -27,5 +27,6 @@ class Main {
         System.out.println("Amount after discount: " + finalAmount);
     }
 }
+
 
 
